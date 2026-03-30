@@ -1,9 +1,8 @@
 # oss-audit--24MEI10045-
 Open Source Software Audit Project
 
-
-Student Name: Aryan Srivastava Roll Number: 24MEI10118 Course: Open Source Software
-
+Student Name: Ankit Kumar Sahu Roll Number: 24MEI10045
+Course: Open Source Software
 Chosen Software: Python
 
 Project Description
@@ -21,6 +20,7 @@ script4_log_analyzer.sh Searches a log file for a keyword and counts how many ti
 script5_manifesto_generator.sh Creates a short personal open source manifesto based on user input.
 
 How to Run the Scripts
+
 First give execution permission:
 
 chmod +x scriptname.sh
